@@ -90,7 +90,7 @@
             <div editable="rich">
             <h4 class="footer-title"></h4>
             <a href="about.php">About Us</a><br/>
-            <a href="Terms.php">Terms of Service</a><br/>
+            <a href="Terms.php">Terms and Conditions</a><br/>
            
            
             </div>

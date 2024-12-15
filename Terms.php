@@ -28,7 +28,7 @@
 
         <div class="row">
             <div class="col-12">
-                <h2 id="desktopBannerheading">Terms of Service <br/> </h2>
+                <h2 id="desktopBannerheading">Terms and Conditions <br/> </h2>
                 
               
             </div>
@@ -48,10 +48,10 @@
             <div class="col-12">
                 <div class="p-4" style="line-height: 1.8; font-size: 16px; color: #333;">
                     <p class="mb-4" style="font-size: 18px;">
-                        Welcome to Accountants Factory LLP. By accessing or using our website and services, you agree to comply with and be bound by these terms, along with any additional terms, guidelines, or policies provided by us. If you do not agree with these terms, please refrain from using our services.
+                        Welcome to Accountants Factory LLP! These Terms and Conditions (“Agreement”) govern your use of our website and services. By accessing and using our website, you agree to comply with and be bound by the terms set forth in this Agreement. If you do not agree with any part of this Agreement, please refrain from using our services.
                     </p>
                     <div class="mb-4">
-                        <h5 style="color: #0c9782; font-weight: bold;">Services Provided</h5>
+                        <h5 style="color: #0c9782; font-weight: bold;">1. About Accountants Factory LLP</h5>
                         <ul>
                             <li>Virtual CFO Services</li>
                             <li>Business Advisory Services</li>
@@ -66,57 +66,87 @@
                             <li>Wealth Management Services</li>
                             <li>MCA Annual Return Filing Services</li>
                         </ul>
+                        <p>However, Accountants Factory LLP does not hire Chartered Accountants (CA), Cost and Management Accountants (CMA), or Company Secretaries (CS) for the delivery of these services. The services provided by Accountants Factory LLP are independent of such professionals, and we do not engage them as employees, agents, or representatives.</p>
                     </div>
 
                     <div class="mb-4">
-                        <h5 style="color: #0c9782; font-weight: bold;">Use of Website and Services</h5>
+                        <h5 style="color: #0c9782; font-weight: bold;">2. Accountants Factory LLP as a Service Provider</h5>
+                        <p>Accountants Factory LLP acts solely as a service provider that facilitates the provision of various financial, regulatory, and business-related services. We do not guarantee the successful outcome of any process or interaction, nor do we offer or guarantee professional advice or recommendations.</p>
+                    </div>
+
+                    <div class="mb-4">
+                        <h5 style="color: #0c9782; font-weight: bold;">3. Service Usage</h5>
                         <ul>
-                            <li>You agree to use our website and services in accordance with applicable laws and regulations, including the Information Technology Act, 2000 and its amendments.</li>
-                            <li>You shall not use our website for any illegal, unlawful, or prohibited activities.</li>
+                            <li>You will provide accurate and complete information when using our services.</li>
+                            <li>Our services are provided solely for your personal or business use.</li>
+                            <li>Any content or documents produced through our services are for your use only and may not be resold, redistributed, or used for any commercial purposes without our explicit written consent.</li>
                         </ul>
                     </div>
 
                     <div class="mb-4">
-                        <h5 style="color: #0c9782; font-weight: bold;">Account Registration</h5>
+                        <h5 style="color: #0c9782; font-weight: bold;">4. Limitation of Liability</h5>
+                        <p>Accountants Factory LLP makes every effort to provide accurate and timely services, but we do not guarantee the accuracy, completeness, or reliability of the information provided. We do not assume responsibility for any loss or damage that may arise from your use of our services, including but not limited to errors, omissions, or any indirect, consequential, or punitive damages.</p>
+                    </div>
+
+                    <div class="mb-4">
+                        <h5 style="color: #0c9782; font-weight: bold;">5. Service Limitations</h5>
                         <ul>
-                            <li>You may need to create an account to access certain services. You agree to provide accurate, current, and complete information, and maintain the confidentiality of your account details.</li>
+                            <li><strong>No Professional Advice:</strong> While we provide various services related to business, tax, accounting, and regulatory compliance, the services we offer are not intended to be a substitute for professional advice from Chartered Accountants, Cost and Management Accountants, or Company Secretaries. If you require specialized professional guidance, you are advised to consult with the appropriate professionals.</li>
+                            <li><strong>No Advisor-Client Relationship:</strong> Using our website or services does not create a direct advisor-client relationship between you and Accountants Factory LLP or its personnel. Any advisory service or content provided is for informational purposes only and is not a professional consultation.</li>
+                            <li><strong>No Guarantee of Service Outcome:</strong> We do not guarantee the success or outcome of any service provided. The results of using our services may vary depending on your specific situation.</li>
                         </ul>
                     </div>
 
                     <div class="mb-4">
-                        <h5 style="color: #0c9782; font-weight: bold;">Payment and Fees</h5>
+                        <h5 style="color: #0c9782; font-weight: bold;">6. User Responsibilities</h5>
                         <ul>
-                            <li>All services offered by Accountants Factory LLP will be billed as per the prices mentioned on the website or as mutually agreed upon with the client.</li>
-                            <li>We do not take any amount unless the client accepts mutually, either online or offline.</li>
+                            <li>Provide truthful and accurate information when requesting or using our services.</li>
+                            <li>Use our services only for lawful purposes and in a manner that does not infringe on the rights of any third parties.</li>
+                            <li>Not engage in any illegal or harmful activities, including but not limited to spam, harassment, or the violation of intellectual property rights.</li>
                         </ul>
                     </div>
 
                     <div class="mb-4">
-                        <h5 style="color: #0c9782; font-weight: bold;">Confidentiality and Data Privacy</h5>
-                        <ul>
-                            <li>Accountants Factory LLP is committed to maintaining the confidentiality of your personal, financial, and business information.</li>
-                            <li>Please refer to our Privacy Policy for details on how we collect, process, and protect your data.</li>
-                        </ul>
+                        <h5 style="color: #0c9782; font-weight: bold;">7. Confidentiality</h5>
+                        <p>While we make every effort to maintain the confidentiality of the information you submit through our website, please be aware that the internet is not entirely secure. We cannot guarantee the complete confidentiality of sensitive data transmitted through our platform, and you agree to use caution when sharing personal or confidential information.</p>
                     </div>
 
                     <div class="mb-4">
-                        <h5 style="color: #0c9782; font-weight: bold;">Limitation of Liability</h5>
-                        <p>
-                            Accountants Factory LLP is not liable for any direct, indirect, incidental, or consequential damages arising out of the use or inability to use the website or services.
-                        </p>
+                        <h5 style="color: #0c9782; font-weight: bold;">8. Content and Materials</h5>
+                        <p>All content on our website, including but not limited to text, graphics, logos, and service descriptions, is the property of Accountants Factory LLP and is protected by copyright laws. You may not use, modify, reproduce, or distribute any content from our website without our prior written consent.</p>
                     </div>
 
                     <div class="mb-4">
-                        <h5 style="color: #0c9782; font-weight: bold;">Governing Law</h5>
-                        <p>
-                            These terms shall be governed by the laws of India, and any disputes shall be subject to the jurisdiction of courts in Tirupati, India.
-                        </p>
+                        <h5 style="color: #0c9782; font-weight: bold;">9. Indemnity</h5>
+                        <p>You agree to indemnify, defend, and hold harmless Accountants Factory LLP, its affiliates, employees, and agents from any claims, damages, liabilities, and expenses (including legal fees) arising from your use of our services, your violation of these terms, or any third-party claims arising from your actions.</p>
+                    </div>
+
+                    <div class="mb-4">
+                        <h5 style="color: #0c9782; font-weight: bold;">10. Termination of Service</h5>
+                        <p>We reserve the right to terminate or suspend access to our services at our discretion, including but not limited to violations of these terms or any illegal activities.</p>
+                    </div>
+
+                    <div class="mb-4">
+                        <h5 style="color: #0c9782; font-weight: bold;">11. Dispute Resolution</h5>
+                        <p>Any disputes arising from or related to these terms and conditions shall be resolved through arbitration in accordance with the laws of India. The place of arbitration shall be [insert location], and the language of arbitration shall be English.</p>
+                    </div>
+
+                    <div class="mb-4">
+                        <h5 style="color: #0c9782; font-weight: bold;">12. Changes to the Terms</h5>
+                        <p>We may revise these Terms and Conditions at any time by updating this page. You are encouraged to review this page periodically for any changes. Continued use of our services after such changes will constitute your acceptance of the revised terms.</p>
                     </div>
 
                     <div>
-                        <h5 style="color: #0c9782; font-weight: bold;">Amendments</h5>
+                        <h5 style="color: #0c9782; font-weight: bold;">13. Contact Information</h5>
                         <p>
-                            Accountants Factory LLP reserves the right to amend these terms at any time, and such changes will be effective immediately upon posting on the website.
+                            For any queries or concerns regarding these Terms and Conditions or our services, please contact us at:<br>
+                            <strong>Accountants Factory LLP</strong><br>
+                            19-8-114/D1, 2nd Floor, Kora Towers, Air Bypass Rd,<br> next to Maya Bazar, near Annamayya Circle,<br>Tirupati, Andhra Pradesh 517501<br>
+                            Email: Acctfactory@gmail.com<br>
+                            Phone: 09885988540
+                        </p>
+                        <p>
+                        By using our website and services, you acknowledge and agree to these Terms and Conditions.
                         </p>
                     </div>
                 </div>
@@ -125,9 +155,9 @@
     </div>
 </div>
 
-        <br><br><br>
-    </div>
-    <br>
+<br><br><br>
+</div>
+<br>
 
 
     <section class="bg-light text-light footer" style="bottom: 0 !important;position: relative;">
@@ -145,7 +175,7 @@
             <div editable="rich">
             <h4 class="footer-title"></h4>
             <a href="about.php">About Us</a><br/>
-            <a href="Terms.php">Terms of Service</a><br/>
+            <a href="Terms.php">Terms and Conditions</a><br/>
            
            
             </div>
