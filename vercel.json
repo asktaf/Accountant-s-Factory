@@ -1,15 +1,12 @@
 {
   "functions": {
-    "api/**/*.php": {
+    "api/*.php": {
       "runtime": "vercel-php@0.7.3"
     }
   },
   "routes": [
     { "src": "/(.*)", "dest": "/api/$1" }
   ],
-  "env": {
-    "NOW_PHP_FOO": "Accountants Factory"
-  },
   "build": {
     "env": {
       "NOW_PHP_DEBUG": "1"
